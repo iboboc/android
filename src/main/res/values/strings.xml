@@ -703,4 +703,6 @@
 
     <string name="common_warning" translatable="false">Warning</string>
     <string name="corrupt_account_info" translatable="false">Accounts have been corrupted in case you have been using a release candidate of 2.0.0 between RC1 and RC5.\n\nWe are sorry to tell you that you need to remove the Nextcloud accounts from your device and need to re-login again completely in order to get fully working login-sessions on this device!</string>
+    <string name="push_notifications_not_implemented">For this version push notification were disabled due to dependencies on proprietary Google play services.</string>
+    <string name="push_notifications_old_login">Push notifications not possible due to old login method. Please consider to re-create your account.</string>
 </resources>
